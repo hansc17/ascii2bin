@@ -1,0 +1,14 @@
+Script started on Tue 02 Mar 2021 07:36:11 PM PST
+]0;hdc62780@ssh: ~/ascii2bin[01;32mhdc62780@ssh[00m:[01;34m~/ascii2bin[00m$ ascii2bin
+ascii2bin: command not found
+]0;hdc62780@ssh: ~/ascii2bin[01;32mhdc62780@ssh[00m:[01;34m~/ascii2bin[00m$ 0101
+0101: command not found
+]0;hdc62780@ssh: ~/ascii2bin[01;32mhdc62780@ssh[00m:[01;34m~/ascii2bin[00m$ ^d[K[Kascii2bin
+ascii2bin: command not found
+]0;hdc62780@ssh: ~/ascii2bin[01;32mhdc62780@ssh[00m:[01;34m~/ascii2bin[00m$ cat 54356.txt  | ./ascii2bin ; echo $?
+bash: ./ascii2bin: No such file or directory
+127
+]0;hdc62780@ssh: ~/ascii2bin[01;32mhdc62780@ssh[00m:[01;34m~/ascii2bin[00m$ ec[Kxit
+exit
+
+Script done on Tue 02 Mar 2021 07:36:50 PM PST
